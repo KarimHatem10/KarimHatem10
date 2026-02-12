@@ -2,7 +2,6 @@
   <h1>Hi 👋, I'm Karim Hatem</h1>
   <p>2nd Year Computer Science Student at Nahda University, Beni-Suef</p>
   <p>💻 Passionate about Programming, Web Development, Linux & Learning New Tools</p>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="250"/>
 </div>
 
 ---
@@ -40,13 +39,13 @@
 ### 📫 Connect with Me
 <div align="center">
   <a href="https://t.me/Karim7atem10" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white&labelColor=00CFFF" height="30"/>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
   </a>
   <a href="https://www.linkedin.com/in/karim-hatem-a11351295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0072B1" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
   <a href="https://wa.me/201114172769" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=128C7E" height="30"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
 </div>
 
