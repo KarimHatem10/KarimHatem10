@@ -39,23 +39,14 @@
 
 ### 📫 Connect with Me
 <div align="center">
-  <a href="https://t.me/spxd007" target="_blank">
+  <a href="https://t.me/Karim7atem10" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white&labelColor=00CFFF" height="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/karim-hatem" target="_blank">
+  <a href="https://www.linkedin.com/in/karim-hatem-a11351295" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0072B1" height="30"/>
   </a>
-  <a href="https://www.tiktok.com/@karimhatem" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white&labelColor=111111" height="30"/>
-  </a>
-  <a href="https://www.facebook.com/karim.hatem" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=0D47A1" height="30"/>
-  </a>
-  <a href="https://wa.me/201234567890" target="_blank">
+  <a href="https://wa.me/201114172769" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=128C7E" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/karimhatem" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=C13584" height="30"/>
   </a>
 </div>
 
@@ -67,10 +58,3 @@
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </div>
-
----
-
-### ⚡ Fun Fact
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/> &nbsp; Coding can be confusing sometimes!  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/> &nbsp; But it feels great when it works!  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/> &nbsp; And sometimes, magic happens unexpectedly.
